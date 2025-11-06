@@ -1,4 +1,3 @@
-# app/esquemas.py
 from pydantic import BaseModel, Field
 from typing import List, Literal, Dict
 
