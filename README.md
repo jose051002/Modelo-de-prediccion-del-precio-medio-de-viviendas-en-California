@@ -1,6 +1,6 @@
 # Modelo de predicción del precio medio de viviendas en California
 
-### Dataset reuperado de https://www.kaggle.com/datasets/camnugent/california-housing-prices
+### Dataset recuperado de https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ## Descripción General
 Este proyecto implementa un modelo de aprendizaje automatico para predecir precios de viviendas del conjunto de datos California Housing Prices.  
